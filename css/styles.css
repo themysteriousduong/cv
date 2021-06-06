@@ -117,6 +117,10 @@ table {
     width: 100%;
 }
 
+.icon {
+    width: 20px;
+}
+
 /* .green-label {
     border: springgreen 10px solid;
     text-align: center;
