@@ -77,6 +77,10 @@ h1 {
     height: 400px;
 }
 
+em {
+    font-weight: bold;
+}
+
 .mark-bottom {
     width: 15px;
     height: 15px;
